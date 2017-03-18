@@ -38,5 +38,5 @@ Open them from the home screen and switch between them in the app switcher.
 **The app that opens doesn't always correspond with the app that was chosen in
 the app switcher**. Here's a video:
 
-https://cmermingas.github.io/web-app-experiments/app-switch.mov
+![iOS App Switch](https://cmermingas.github.io/web-app-experiments/app-switch.gif)
 
